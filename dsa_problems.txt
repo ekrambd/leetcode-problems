@@ -1,0 +1,83 @@
+# Patterns: Two Pointers, HashMap, Stack/Queue, Linked List, Binary Tree, Binary Search, Greedy, Strings/Math
+# Tick [ ] when done
+
+## Pattern 1: Two Pointers / Sliding Window (13 Problems)
+[ Done ] Two Sum – Easy – #1
+[ ] Best Time to Buy and Sell Stock – Easy – #121
+[ ] Squares of a Sorted Array – Easy – #977
+[ ] Merge Sorted Array – Easy – #88
+[ ] Remove Duplicates from Sorted Array – Easy – #26
+[ ] Move Zeroes – Easy – #283
+[ ] Container With Most Water – Medium – #11
+[ ] 3Sum – Medium – #15
+[ ] 3Sum Closest – Medium – #16
+[ ] Subarray Sum Equals K – Medium – #560
+[ ] Reverse String – Easy – #344
+[ ] Valid Palindrome – Easy – #125
+[ ] Merge Intervals – Medium – #56
+
+## Pattern 2: HashMap / Frequency Counting (10 Problems)
+[ ] Valid Anagram – Easy – #242
+[ ] First Unique Character in a String – Easy – #387
+[ ] Ransom Note – Easy – #383
+[ ] Word Pattern – Easy – #290
+[ ] Longest Substring Without Repeating Characters – Medium – #3
+[ ] Group Anagrams – Medium – #49
+[ ] Contains Duplicate – Easy – #217
+[ ] Intersection of Two Arrays II – Easy – #350
+[ ] Top K Frequent Elements – Medium – #347
+[ ] Longest Consecutive Sequence – Medium – #128
+
+## Pattern 3: Stack / Queue (5 Problems)
+[ ] Valid Parentheses – Easy – #20
+[ ] Min Stack – Medium – #155
+[ ] Evaluate Reverse Polish Notation – Medium – #150
+[ ] Daily Temperatures – Medium – #739
+[ ] Next Greater Element I – Easy – #496
+
+## Pattern 4: Linked List (6 Problems)
+[ ] Reverse Linked List – Easy – #206
+[ ] Merge Two Sorted Lists – Easy – #21
+[ ] Linked List Cycle – Easy – #141
+[ ] Remove Nth Node From End – Medium – #19
+[ ] Reorder List – Medium – #143
+[ ] Add Two Numbers – Medium – #2
+
+## Pattern 5: Binary Tree (DFS/BFS/Recursion) (6 Problems)
+[ ] Maximum Depth of Binary Tree – Easy – #104
+[ ] Same Tree – Easy – #100
+[ ] Symmetric Tree – Easy – #101
+[ ] Binary Tree Level Order Traversal – Medium – #102
+[ ] Invert Binary Tree – Easy – #226
+[ ] Diameter of Binary Tree – Medium – #543
+
+## Pattern 6: Binary Search / Searching (5 Problems)
+[ ] Binary Search – Easy – #704
+[ ] Search Insert Position – Easy – #35
+[ ] Search in Rotated Sorted Array – Medium – #33
+[ ] Find Minimum in Rotated Sorted Array – Medium – #153
+[ ] Kth Largest Element in an Array – Medium – #215
+
+## Pattern 7: Greedy / Simple DP (3 Problems)
+[ ] Gas Station – Medium – #134
+[ ] Jump Game – Medium – #55
+[ ] Partition Equal Subset Sum – Medium – #416
+
+## Pattern 8: Strings / Math / Misc (13 Problems)
+[ ] Longest Common Prefix – Easy – #14
+[ ] Implement strStr() – Easy – #28
+[ ] Palindrome Number – Easy – #9
+[ ] Add Binary – Easy – #67
+[ ] Length of Last Word – Easy – #58
+[ ] Fizz Buzz – Easy – #412
+[ ] Plus One – Easy – #66
+[ ] Sqrt(x) – Easy – #69
+[ ] Climbing Stairs – Easy – #70
+[ ] Number of 1 Bits – Easy – #191
+[ ] Power of Two – Easy – #231
+[ ] Power of Three – Easy – #326
+[ ] Happy Number – Easy – #202
+
+# Total Problems: 61
+# Easy: 36, Medium: 25
+# Patterns to Learn: 8
