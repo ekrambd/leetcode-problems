@@ -3,10 +3,10 @@
 
 ## Pattern 1: Two Pointers / Sliding Window (13 Problems)
 [ Done ] Two Sum – Easy – #1
-[ ] Best Time to Buy and Sell Stock – Easy – #121
-[ ] Squares of a Sorted Array – Easy – #977
-[ ] Merge Sorted Array – Easy – #88
-[ ] Remove Duplicates from Sorted Array – Easy – #26
+[ Done ] Best Time to Buy and Sell Stock – Easy – #121
+[ Done ] Squares of a Sorted Array – Easy – #977
+[ Done ] Merge Sorted Array – Easy – #88
+[ Done ] Remove Duplicates from Sorted Array – Easy – #26
 [ ] Move Zeroes – Easy – #283
 [ ] Container With Most Water – Medium – #11
 [ ] 3Sum – Medium – #15
