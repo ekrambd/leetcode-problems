@@ -13,8 +13,8 @@
 [ ] 3Sum Closest – Medium – #16
 [ ] Subarray Sum Equals K – Medium – #560
 [ Done ] Reverse String – Easy – #344
-[ ] Valid Palindrome – Easy – #125
-[ ] Merge Intervals – Medium – #56
+[ Done ] Valid Palindrome – Easy – #125
+[ Done ] Merge Intervals – Medium – #56
 
 ## Pattern 2: HashMap / Frequency Counting (10 Problems)
 [ ] Valid Anagram – Easy – #242
