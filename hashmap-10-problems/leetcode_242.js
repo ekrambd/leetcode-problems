@@ -27,7 +27,7 @@ var isAnagram = function(s, t) {
 		map.set(t[i], count - 1);
 	}
 
-	return true;
+	return true;                        
 };
 
 console.log(isAnagram("anagram", "nagaram"));
